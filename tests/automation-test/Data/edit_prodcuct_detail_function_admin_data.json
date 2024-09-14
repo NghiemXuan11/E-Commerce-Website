@@ -1,0 +1,11 @@
+{
+  "test_cases_edit_detail_product": [
+    {
+      "name": "TC_134",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "T134",
+      "description": "danh mục này dùng để kiểm thử TC_134"     
+    }
+  ]
+}

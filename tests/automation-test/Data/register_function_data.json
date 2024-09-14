@@ -1,0 +1,88 @@
+{
+  "test_cases_Register": [
+    {
+      "ID": "TC_9",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem"
+    },
+    {
+      "ID": "TC_10",
+      "name": "Nguyễn Trương Xuân @",
+      "username": "nghiemnguyen111131@gmail.com",
+      "password": "a"
+    },
+    {
+      "ID": "TC_11",
+      "name": "",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem"
+    },
+    {
+      "ID": "TC_12",
+      "name": "Nguyễn Trương Xuân @",
+      "username": "2151010246nghiem@ouh.edu.vn",
+      "password": "11112001Nghiem"
+    },
+    {
+      "ID": "TC_13",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "",
+      "password": "11112001Nghiem"
+    },
+    {
+      "ID": "TC_14",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "123xyz",
+      "password": "11112001Nghiem"
+    },
+    {
+      "ID": "TC_15",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": ""
+    },
+    {
+      "ID": "TC_16",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "abcN01"
+    },
+    {
+      "ID": "TC_17",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "abcdefg11"
+    },
+    {
+      "ID": "TC_18",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "ABCDEFG11"
+    },
+    {
+      "ID": "TC_19",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "abcDEFGHIF"
+    },
+    {
+      "ID": "TC_20",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "21510102467nghiem@ou.edu.vn",
+      "password": "aB3x7jG9QpLmZ1oW2vK4sH6uE8rTc5yN0wFqDbJmVgXzOiP1k2y3uL4o5t6m7j8v9qW0sRcU7hNewfvrteetrwtewe"
+    },
+    {
+      "ID": "TC_21",
+      "name": "",
+      "username": "",
+      "password": ""
+    },
+    {
+      "ID": "TC_22",
+      "name": "Nguyễn Trương Xuân Nghiêm",
+      "username": "nguyenvana@gmail.com",
+      "password": "11112001Nghiem"
+    }
+  ]
+}

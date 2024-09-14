@@ -1,0 +1,26 @@
+{
+  "test_cases_edit_group_of_role": [
+    {
+      "name": "TC_187",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quản Trị Viên",
+      "description": "Nhóm quyền này dùng để kiểm thử cho TC_187"     
+    },
+    {
+      "name": "TC_188",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quyền Test TC_188",
+      "description": "123456789"     
+    },
+    {
+      "name": "TC_189",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quyền Test TC_189",
+      "description": ""     
+    }
+  ]
+}
+

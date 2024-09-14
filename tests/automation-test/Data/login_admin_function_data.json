@@ -1,0 +1,45 @@
+{
+  "test_cases_login_admin": [
+    {
+      "name": "TC_63",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123"
+    },
+    {
+      "name": "TC_64",
+      "username": "",
+      "password": ""
+    },
+    {
+      "name": "TC_65",
+      "username": "",
+      "password": "nghiem123"
+    },
+    {
+      "name": "TC_66",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": ""
+    },
+    {
+      "name": "TC_67",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "abcXYZ"
+    },
+    {
+       "name": "TC_68",
+       "username": "abcXYZ",
+       "password": "nghiem123"
+    },
+    {
+      "name": "TC_69",
+      "username": "23Sam@gmailxyz.com",
+      "password": "nghiem123"
+    },
+    {
+      "name": "TC_70",
+      "username": "abcXYZ@gmail.com",
+      "password": "abcXYZ"
+    }
+  ]
+}
+

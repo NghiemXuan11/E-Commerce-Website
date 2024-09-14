@@ -1,0 +1,61 @@
+extends ../../layouts/default.pug
+include ../../mixins/moment.mixins.pug
+include ../../mixins/alert.mixins.pug
+include ../../mixins/filterStatus.mixins.pug
+include ../../mixins/search.mixins.pug
+include ../../mixins/pagination.mixins.pug
+
+block main
+  if(role.permissions.includes("orders_view"))
+    +alert-success(5000)
+    h1(class="mb-4") #{pageTitle}
+    .card.mb-3 
+      .card-header Bộ lọc và tìm kiếm 
+      .card-body 
+        .row 
+          .col-6
+              +filter-status(filterState)
+          .col-6
+              +search(keyword) 
+
+        table(
+          class="table table-hover table-sm"
+        )
+          thead
+            tr
+              th STT
+              th Họ tên
+              th Ngày đặt đơn
+              th Trạng thái
+
+          tbody
+            each item, index in order
+              tr 
+                td #{index+1}
+                td 
+                  p #{item.userInfo.fullName}
+                td 
+                  +formatDateTime(item.createdBy.createdAt)
+                td
+                  if (item.status === "active")
+                    a(
+                      href="javascript:;"
+                      class="badge badge-success"
+                    ) chưa thanh toán
+                  else
+                    a(
+                      href="javascript:;"
+                      class="badge badge-danger"
+                    ) Đã thanh toán
+                td
+                  a(
+                    class="btn btn-secondary btn-sm"
+                    href=`/${prefixAdmin}/order/detail/${item.id}`
+                  ) Xem
+                  a(
+                    class="btn btn-warning btn-sm ml-1"
+                    href=`/${prefixAdmin}/order/edit/${item.id}`
+                  ) Sửa
+    +pagination(pagination)              
+  else
+    h1 Bạn không có quyền truy cập! 

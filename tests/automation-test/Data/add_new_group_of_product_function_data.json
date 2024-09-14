@@ -1,0 +1,102 @@
+{
+  "test_cases_add_new_group_of_product": [
+    {
+      "name": "TC_71",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "TC_71",
+      "description": "danh mục này dùng để kiểm thử TC_71",
+      "location": "3"
+      
+    },
+    {
+      "name": "TC_72",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Danh mục TC_72",
+      "description": "danh mục này dùng để kiểm thử TC_72",
+      "location": "4"
+    },
+    {
+      "name": "TC_73",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Danh mục TC_73",
+      "description": "",
+      "location": "5"
+    },
+    {
+      "name": "TC_74",
+     "username": "nghiemnguyen111121@gmail.com",
+     "password": "nghiem123",
+     "title": "Danh mục TC_74",
+     "description": "danh mục này dùng để kiểm thử TC_74",
+     "location": "6"
+    },
+    {
+      "name": "TC_75",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Danh mục TC_75",
+      "description": "",
+      "location": "7"
+    },
+    {
+       "name": "TC_76",
+       "username": "nghiemnguyen111121@gmail.com",
+       "password": "nghiem123",
+       "title": "Danh mục TC_76",
+       "description": "",
+       "location": "20"
+    },
+    {
+      "name": "TC_77",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "đây là danh mục chứa các đồng hồ mang thương hiệu lớn Rolex",
+      "description": "",
+      "location": "20"
+    },
+    {
+      "name": "TC_78",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "",
+      "description": "danh mục này dùng để kiểm thử TC_78",
+      "location": "7"
+    },
+    {
+      "name": "TC_79",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Danh mục TC_71",
+      "description": "danh mục này dùng để kiểm thử TC_79",
+      "location": "8"
+    },
+    {
+      "name": "TC_80",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "TC80",
+      "description": "danh mục này dùng để kiểm thử TC_80",
+      "location": "8"
+    },
+    {
+      "name": "TC_81",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Danh mục TC_81",
+      "description": "danh mục này dùng để kiểm thử TC_81",
+      "location": "-1"
+    },
+    {
+      "name": "TC_82",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Danh mục TC_82",
+      "description": "danh mục này dùng để kiểm thử TC_82",
+      "location": "100000000000000000000000"
+    }
+  ]
+}
+

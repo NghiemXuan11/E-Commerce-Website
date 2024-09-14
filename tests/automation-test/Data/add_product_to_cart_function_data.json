@@ -1,0 +1,28 @@
+{
+  "test_cases_add_product": [
+    {
+      "name": "TC_46",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "50"
+    },
+    {
+      "name": "TC_47",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": ""
+    },
+    {
+      "name": "TC_48",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "0"
+    },
+    {
+      "name": "TC_49",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "100000000000000000"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "test_cases_order": [
+    {
+      "name": "TC_50",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "2",
+      "order_username": "Nguyễn Trương Xuân Nghiêm",
+      "order_phone_number": "0816961101",
+      "order_address": "97 Võ Văn Tần"
+    },
+    {
+      "name": "TC_51",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "4",
+      "order_username": "Nguyễn Hoàng Thắng",
+      "order_phone_number": "0916961101",
+      "order_address": "69 Trương Định"
+    },
+    {
+      "name": "TC_52",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "2",
+      "order_username": "",
+      "order_phone_number": "",
+      "order_address": ""
+    },
+    {
+      "name": "TC_53",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "4",
+      "order_username": "",
+      "order_phone_number": "0916961109",
+      "order_address": "19 Lam Sơn"
+    },
+    {
+       "name": "TC_54",
+       "username": "2151010246nghiem@ou.edu.vn",
+       "password": "11112001Nghiem",
+       "quantity": "4",
+       "order_username": "Tiển Chí @",
+       "order_phone_number": "0916961109",
+       "order_address": "19 Lam Sơn"
+    },
+    {
+      "name": "TC_55",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "4",
+      "order_username": "Nguyễn Hoàng Thắng",
+      "order_phone_number": "",
+      "order_address": "69 Trương Định"
+    },
+    {
+      "name": "TC_56",
+       "username": "2151010246nghiem@ou.edu.vn",
+       "password": "11112001Nghiem",
+       "quantity": "4",
+       "order_username": "Nguyễn Hoàng Thắng",
+       "order_phone_number": "12",
+       "order_address": "69 Trương Định"
+    },
+    {
+      "name": "TC_57",
+       "username": "2151010246nghiem@ou.edu.vn",
+       "password": "11112001Nghiem",
+       "quantity": "4",
+       "order_username": "Nguyễn Hoàng Thắng",
+       "order_phone_number": "0293021abc9",
+       "order_address": "69 Trương Định"
+    },
+    {
+      "name": "TC_58",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "4",
+      "order_username": "Nguyễn Hoàng Thắng",
+      "order_phone_number": "081696110@",
+      "order_address": "69 Trương Định"
+    },
+    {
+      "name": "TC_59",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "4",
+      "order_username": "Nguyễn Hoàng Thắng",
+      "order_phone_number": "0916961101",
+      "order_address": ""
+    },
+    {
+      "name": "TC_60",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "4",
+      "order_username": "Nguyễn Hoàng Thắng",
+      "order_phone_number": "0916961101",
+      "order_address": "Võ Văn Tần"
+    },
+    {
+      "name": "TC_61",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem",
+      "quantity": "4",
+      "order_username": "Nguyễn Hoàng Thắng",
+      "order_phone_number": "0916961101",
+      "order_address": "97"
+    }
+  ]
+}

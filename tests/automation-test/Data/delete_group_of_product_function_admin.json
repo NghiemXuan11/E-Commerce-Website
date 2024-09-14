@@ -1,0 +1,13 @@
+{
+  "test_cases_delete_new_group_of_product": [
+    {
+      "name": "TC_92",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Danh mục TC_92",
+      "description": "danh mục này dùng để kiểm thử TC_92",
+      "location": "3"      
+    }
+  ]
+}
+

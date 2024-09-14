@@ -1,0 +1,44 @@
+{
+  "test_cases_login": [
+    {
+      "name": "TC_01",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "11112001Nghiem"
+    },
+    {
+      "name": "TC_02",
+      "username": "",
+      "password": ""
+    },
+    {
+      "name": "TC_03",
+      "username": "",
+      "password": "11112001Nghiem"
+    },
+    {
+      "name": "TC_04",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": ""
+    },
+    {
+      "name": "TC_05",
+      "username": "2151010246nghiem@ou.edu.vn",
+      "password": "abcxyz"
+    },
+    {
+       "name": "TC_06",
+       "username": "abcXYZ",
+       "password": "11112001Nghiem"
+    },
+    {
+      "name": "TC_07",
+      "username": "23Sam@gmailxyz.com",
+      "password": "11112001Nghiem"
+    },
+    {
+      "name": "TC_08",
+      "username": "23Sam@gmailxyz.com",
+      "password": "abcxyz"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "test_cases_role_division": [
+    {
+      "name": "TC_194",
+      "username1": "nghiemnguyen111121@gmail.com",
+      "password1": "nghiem123",
+      "username2": "nghiemnguyen111131@gmail.com",
+      "password2": "11112001Nghiem"
+    },
+     {
+       "name": "TC_195",
+       "username1": "nghiemnguyen111121@gmail.com",
+       "password1": "nghiem123",
+       "username2": "nghiemnguyen111131@gmail.com",
+       "password2": "11112001Nghiem"
+     }
+  ]
+}
+
+

@@ -1,0 +1,54 @@
+{
+  "test_cases_add_new_role_group": [
+    {
+      "name": "TC_184",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quyền test (TC_184)",
+      "description": "Đây là nhóm quyền để kiểm thử TC_184"      
+    },
+    {
+      "name": "TC_185",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "",
+      "description": "Đây là nhóm quyền để kiểm thử TC_185"      
+    },
+    {
+      "name": "TC_186",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "T184",
+      "description": "Đây là nhóm quyền để kiểm thử TC_186"      
+    },
+    {
+      "name": "TC_187",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quyền test (TC_187)",
+      "description": "Đây là nhóm quyền để kiểm thử TC_184"      
+    },
+    {
+      "name": "TC_188",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quyền test (TC_184)",
+      "description": "(TC_188)"      
+    },
+    {
+      "name": "TC_189",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quyền test (TC_189)",
+      "description": ""      
+    },
+    {
+      "name": "T190",
+      "username": "nghiemnguyen111121@gmail.com",
+      "password": "nghiem123",
+      "title": "Quyền test (TC_184)",
+      "description": "TC_190"      
+    }
+  ]
+}
+

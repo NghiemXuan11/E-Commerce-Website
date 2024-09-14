@@ -1,0 +1,57 @@
+extends ../../layouts/default.pug
+include ../../mixins/box-head.mixins.pug
+include ../../mixins/moment.mixins.pug
+
+
+block main
+  .container.my-3
+    .row
+      .col-12
+        +box-head("Thông tin tài khoản")
+        div #{infoUser.fullName}
+        table(
+          class="table table-hover table-sm"
+        )
+          thead
+            tr
+              th STT
+              th Họ tên
+              th Ngày đặt đơn
+              th Trạng thái
+
+          tbody
+            each item, index in order
+              tr 
+                td #{index+1}
+                td 
+                  p #{item.userInfo.fullName}
+                td 
+                  +formatDate(item.createdBy.createdAt)
+                td
+                  if (item.status === "active")
+                    a(
+                      href="javascript:;"
+                      class="badge badge-success"
+                    ) chưa thanh toán
+                  else
+                    a(
+                      href="javascript:;"
+                      class="badge badge-danger"
+                    ) Đã thanh toán
+                td
+                  a(
+                    class="btn btn-secondary btn-sm"
+                    href=`/user/detail/${item.id}`
+                  ) Xem
+                  a(
+                    class="btn btn-danger btn-sm ml-1"
+                    button-delete
+                    data-id=item.id
+                  ) Huỷ đơn
+
+  form(
+    form-delete-item
+    action=""
+    method="POST"
+    data-path=`/user/delete`
+    )                                         

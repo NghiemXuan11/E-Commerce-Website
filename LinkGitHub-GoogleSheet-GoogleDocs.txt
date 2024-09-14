@@ -1,0 +1,15 @@
+**GitHub (include source code Project and code automation testing)** 
+
+https://github.com/SamCh1/Project-managerTest.git
+
+**Google Sheet (include Table of Tests)**
+
+https://docs.google.com/spreadsheets/d/1kqyF3uiGnTQj1NfWNaJGYrhvNcYab-a0gaGXvsO6sLc/edit?usp=sharing
+
+**Google Docs (include Test Plan)**
+
+https://docs.google.com/document/d/1yeCixPTmY7-WOGG6zriYkTzDQ773o5keCpBJrShS6wY/edit?usp=sharing
+
+**Google Docs (include SRS - Software Requirement Specification)**
+
+https://docs.google.com/document/d/1YXVGgi5x-vR8AQhrrFmH8WYY9D2F9sBWTDA-VRBD2Zk/edit?usp=sharing

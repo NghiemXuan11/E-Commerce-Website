@@ -1,0 +1,36 @@
+{
+  "test_cases_searching": [
+    {
+      "id": "TC_36",
+      "keyword": ""
+    },
+    {
+      "id": "TC_37",
+      "keyword": "I"
+    },
+    {
+      "id": "TC_38",
+      "keyword": "pho"
+    },
+    {
+      "id": "TC_39",
+      "keyword": "Iphone 15"
+    },
+    {
+      "id": "TC_40",
+      "keyword": "@"
+    },
+    {
+      "id": "TC_41",
+      "keyword": "exe"
+    },
+    {
+      "id": "TC_42",
+      "keyword": "Mercedes"
+    },
+    {
+      "id": "TC_43",
+      "keyword": "            "
+    }
+  ]
+}
