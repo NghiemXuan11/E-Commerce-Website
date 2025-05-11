@@ -1,0 +1,40 @@
+2151010246nghiem@ou.edu.vn
+11112001Nghiem
+
+Admin:
+nghiemnguyen111121@gmail.com
+nghiem123
+
+Admin 2:
+nghiemnguyen111131@gmail.com
+11112001Nghiem
+
+Nhan vien:
+nghiemnguyen111101@gmail.com
+11112001Nghiem
+
+//Quyền nhân viên vẫn truy cập dc vào danh sách tài khoản
+
+gmailapi123
+nghiemnguyen11112001@gmail.com
+
+name pj: autotest
+
+
+
+WebElement inputEmail = driver.findElement(By.xpath("//input[@id='email']"));
+
+String validationMessage = inputEmail.getAttribute("validationMessage");
+System.out.println(validationMessage);
+
+https://sqa.stackexchange.com/questions/23533/how-to-test-forgot-password-link
+
+D:\Project-managerTest\tests\automation-test
+
+
+2151010246nghiem@ou.edu.vn
+Các case về tên
+bỏ trống, sai
+Các case về số điện thoạii
+Các case về địa chỉ 
+The application of computer vision in classifying biodegradable organic waste and reusable waste groups.
